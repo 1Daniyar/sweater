@@ -1,0 +1,16 @@
+project\controller\MainController.class
+project\controller\ControllerUtils.class
+project\controller\RegistrationController.class
+project\service\UserService.class
+project\service\MailSender.class
+project\config\MailConfig.class
+project\repos\MessageRepo.class
+project\Application.class
+project\config\WebSecurityConfig.class
+project\repos\UserRepo.class
+project\domain\dto\CaptchaResponseDto.class
+project\controller\UserController.class
+project\domain\User.class
+project\domain\Role.class
+project\config\MvcConfig.class
+project\domain\Message.class
