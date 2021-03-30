@@ -1,8 +1,8 @@
-project\controller\MainController.class
 project\controller\ControllerUtils.class
 project\controller\RegistrationController.class
 project\service\UserService.class
 project\service\MailSender.class
+project\controller\MessageController.class
 project\config\MailConfig.class
 project\repos\MessageRepo.class
 project\Application.class
@@ -11,6 +11,7 @@ project\repos\UserRepo.class
 project\domain\dto\CaptchaResponseDto.class
 project\controller\UserController.class
 project\domain\User.class
+project\service\MessageService.class
 project\domain\Role.class
 project\config\MvcConfig.class
 project\domain\Message.class

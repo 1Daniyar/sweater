@@ -1,4 +1,3 @@
-C:\Users\d-sha\IdeaProjects\sweater\src\main\java\project\controller\MainController.java
 C:\Users\d-sha\IdeaProjects\sweater\src\main\java\project\controller\RegistrationController.java
 C:\Users\d-sha\IdeaProjects\sweater\src\main\java\project\config\WebSecurityConfig.java
 C:\Users\d-sha\IdeaProjects\sweater\src\main\java\project\domain\dto\CaptchaResponseDto.java
@@ -7,6 +6,8 @@ C:\Users\d-sha\IdeaProjects\sweater\src\main\java\project\config\MailConfig.java
 C:\Users\d-sha\IdeaProjects\sweater\src\main\java\project\service\MailSender.java
 C:\Users\d-sha\IdeaProjects\sweater\src\main\java\project\service\UserService.java
 C:\Users\d-sha\IdeaProjects\sweater\src\main\java\project\domain\Role.java
+C:\Users\d-sha\IdeaProjects\sweater\src\main\java\project\controller\MessageController.java
+C:\Users\d-sha\IdeaProjects\sweater\src\main\java\project\service\MessageService.java
 C:\Users\d-sha\IdeaProjects\sweater\src\main\java\project\Application.java
 C:\Users\d-sha\IdeaProjects\sweater\src\main\java\project\repos\UserRepo.java
 C:\Users\d-sha\IdeaProjects\sweater\src\main\java\project\repos\MessageRepo.java
